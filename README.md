@@ -91,17 +91,17 @@ Created an interactive dashboard to analyze:
 ## Dashboard Preview
 
 ### Power BI Dashboard
-![Power BI Dashboard](screenshots/Powerbi_dashboard.png)
+![Power BI Dashboard](screenshots/Powerbi dashboard img.png)
 
 ---
 
 ### Excel Dashboard 1
-![Excel Dashboard 1](screenshots/Excel_dashboard-1.png)
+![Excel Dashboard 1](screenshots/Excel Dashboard -1 img.png)
 
 ---
 
 ### Excel Dashboard 2
-![Excel Dashboard 2](screenshots/Excel_dashboard-2.png)
+![Excel Dashboard 2](screenshots/Excel dashboard -2 img.png)
 
 ---
 
