@@ -86,8 +86,6 @@ Created an interactive dashboard to analyze:
 - Most delivered orders arrived earlier than the estimated delivery date.
 
 ---
-
-
 ## Dashboard Preview
 
 ### Power BI Dashboard
@@ -101,9 +99,9 @@ Created an interactive dashboard to analyze:
 ---
 
 ### Excel Dashboard 2
-![Excel Dashboard 2](screenshots/Excel dashboard -2 img.png)
+![Excel Dashboard 2](screenshots/Excel dashboard-2 img.png)
 
----
+
 
 ## Project Structure
 
