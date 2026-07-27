@@ -10,7 +10,7 @@
 ## Tools Used
 | Tool | Purpose |
 |------|---------|
-| SQL | Data querying, joins, aggregations |
+| SQL | Data querying, joins,  |
 | Python | EDA, visualization, statistical analysis |
 | Excel | Pivot tables, KPI tracking, trend analysis |
 | Power BI | Interactive dashboard, DAX measures |
